@@ -12,7 +12,7 @@ This repository implements **GA-SR-NMI-VI**, a hybrid band selection approach fo
 ├── GA-SR-NMI-VI_longkou.ipynb        # Experiment notebook for WHU-Hi-LongKou dataset  
 ├── GA-SR-NMI-VI_oilspill.ipynb       # Experiment notebook for Oil Spill dataset  
 ├── Images/                           # Folder for figures, plots, or outputs  
-
+```text
 ---
 
 ## 📖 How It Works

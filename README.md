@@ -3,16 +3,15 @@
 This repository implements **GA-SR-NMI-VI**, a hybrid band selection approach for hyperspectral image classification. It combines **Similarity-based Ranking** (SR-NMI-VI) and a **Genetic Algorithm** (GA) to optimize the selection of informative spectral bands, improving accuracy while reducing computational cost.
 
 ---
-
 ## 📁 Repository Structure
 
-├── GA-SR-NMI-VI.py # Core implementation of the GA-SR-NMI-VI algorithm
-├── GA-SR-NMI-VI_cubertdrone.ipynb # Experiment notebook for Cubert Drone dataset
-├── GA-SR-NMI-VI_hanchaun.ipynb # Experiment notebook for WHU-Hi-HanChuan dataset
-├── GA-SR-NMI-VI_longkou.ipynb # Experiment notebook for WHU-Hi-LongKou dataset
-├── GA-SR-NMI-VI_oilspill.ipynb # Experiment notebook for Oil Spill dataset
-├── Images/ # Folder for figures, plots, or outputs
-
+```text
+├── GA-SR-NMI-VI.py                   # Core implementation of the GA-SR-NMI-VI algorithm  
+├── GA-SR-NMI-VI_cubertdrone.ipynb    # Experiment notebook for Cubert Drone dataset  
+├── GA-SR-NMI-VI_hanchaun.ipynb       # Experiment notebook for WHU-Hi-HanChuan dataset  
+├── GA-SR-NMI-VI_longkou.ipynb        # Experiment notebook for WHU-Hi-LongKou dataset  
+├── GA-SR-NMI-VI_oilspill.ipynb       # Experiment notebook for Oil Spill dataset  
+├── Images/                           # Folder for figures, plots, or outputs  
 
 ---
 
